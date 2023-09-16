@@ -1,3 +1,3 @@
 ---
-redirect_to: http://pdu2.corp.caledfwlch.tech/
+redirect_to: http://pdu2.caledfwlch.tech/
 ---
